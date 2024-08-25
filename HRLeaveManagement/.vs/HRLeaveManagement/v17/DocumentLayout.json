@@ -1,0 +1,629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{463ABF09-101D-4B4C-97AF-05D5B699765A}|HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.api\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463ABF09-101D-4B4C-97AF-05D5B699765A}|HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj|solutionrelative:hr.leavemanagement.api\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463ABF09-101D-4B4C-97AF-05D5B699765A}|HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463ABF09-101D-4B4C-97AF-05D5B699765A}|HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj|solutionrelative:hr.leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463ABF09-101D-4B4C-97AF-05D5B699765A}|HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463ABF09-101D-4B4C-97AF-05D5B699765A}|HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj|solutionrelative:hr.leavemanagement.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463ABF09-101D-4B4C-97AF-05D5B699765A}|HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{463ABF09-101D-4B4C-97AF-05D5B699765A}|HR.LeaveManagement.API\\HR.LeaveManagement.API.csproj|solutionrelative:hr.leavemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.identity\\identityservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\identityservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.application\\models\\identity\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\models\\identity\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.application\\contracts\\identity\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\contracts\\identity\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.identity\\leavemanagementidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\leavemanagementidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.identity\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.identity\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.identity\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.identity\\hr.leavemanagement.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E06DD3C3-7CF4-4E20-94AE-E58664E39F96}|HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:hr.leavemanagement.identity\\hr.leavemanagement.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.application\\models\\identity\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\models\\identity\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.application\\models\\identity\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\models\\identity\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.application\\models\\identity\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\models\\identity\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.application\\models\\identity\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\models\\identity\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\controllers\\leavetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\views\\leavetypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\views\\leavetypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\views\\leavetypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\views\\leavetypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\views\\leavetypes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\views\\leavetypes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\views\\leavetypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\views\\leavetypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\contracts\\ileavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\contracts\\ileavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\services\\leavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\services\\leavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\services\\base\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\services\\base\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\services\\base\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\services\\base\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\services\\base\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\services\\base\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\contracts\\ilocalstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\contracts\\ilocalstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\models\\leavetypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\models\\leavetypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagament.mvc\\services\\localstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1EAD4C-CCA4-447B-BC0D-B32221F713A0}|HR.LeaveManagament.MVC\\HR.LeaveManagament.MVC.csproj|solutionrelative:hr.leavemanagament.mvc\\services\\localstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\user\\source\\repos\\hrleavemanagement\\hr.leavemanagement.application\\feature\\leavetypes\\handlers\\commands\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F18558-F107-4466-AA55-AF60BDB475A0}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\feature\\leavetypes\\handlers\\commands\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.API\\Program.cs",
+              "RelativeToolTip": "HR.LeaveManagement.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:41:09.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HR.LeaveManagement.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:35:45.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.API\\appsettings.json",
+              "RelativeToolTip": "HR.LeaveManagement.API\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T15:25:13.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvzEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:07:26.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Services\\AuthService.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\Services\\AuthService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwEQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:32:11.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:13:17.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:04:42.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:51:52.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:46:40.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveManagementIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\LeaveManagementIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\LeaveManagementIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\LeaveManagementIdentityDbContext.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\LeaveManagementIdentityDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:45:15.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HR.LeaveManagement.Identity.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+              "RelativeToolTip": "HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T13:43:09.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Identity\\IAuthService.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Contracts\\Identity\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Contracts\\Identity\\IAuthService.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Contracts\\Identity\\IAuthService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:39:52.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\RegistrationResponse.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Models\\Identity\\RegistrationResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\RegistrationResponse.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Models\\Identity\\RegistrationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:38:45.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Models\\Identity\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\RegistrationRequest.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Models\\Identity\\RegistrationRequest.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:36:15.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Models\\Identity\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\JwtSettings.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Models\\Identity\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:34:48.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Models\\Identity\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\AuthResponse.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Models\\Identity\\AuthResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:33:39.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Models\\Identity\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Models\\Identity\\AuthRequest.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Models\\Identity\\AuthRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:32:41.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Edit.cshtml",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T09:20:55.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Create.cshtml",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Create.cshtml",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T09:56:33.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Details.cshtml",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Details.cshtml",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T09:22:07.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T13:56:24.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwB8AAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T13:44:45.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Index.cshtml",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Views\\LeaveTypes\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T13:37:09.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LeaveTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Controllers\\LeaveTypesController.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Controllers\\LeaveTypesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Controllers\\LeaveTypesController.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Controllers\\LeaveTypesController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:32:52.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LeaveTypeVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Models\\LeaveTypeVM.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Models\\LeaveTypeVM.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Models\\LeaveTypeVM.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Models\\LeaveTypeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:29:51.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\MappingProfile.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:27:47.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LeaveTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\LeaveTypeService.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Services\\LeaveTypeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\LeaveTypeService.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Services\\LeaveTypeService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:25:58.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ILeaveTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Contracts\\ILeaveTypeService.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Contracts\\ILeaveTypeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Contracts\\ILeaveTypeService.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Contracts\\ILeaveTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:25:41.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.API\\Controllers\\LeaveTypesController.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.API\\Controllers\\LeaveTypesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.API\\Controllers\\LeaveTypesController.cs",
+              "RelativeToolTip": "HR.LeaveManagement.API\\Controllers\\LeaveTypesController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA1wEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:05:52.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateLeaveTypeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Feature\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Feature\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagement.Application\\Feature\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeCommandHandler.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Feature\\LeaveTypes\\Handlers\\Commands\\CreateLeaveTypeCommandHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwDEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:02:12.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseHttpService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\BaseHttpService.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Services\\Base\\BaseHttpService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\BaseHttpService.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Services\\Base\\BaseHttpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:47:46.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LocalStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\LocalStorageService.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Services\\LocalStorageService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\LocalStorageService.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Services\\LocalStorageService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:36:50.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ILocalStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Contracts\\ILocalStorageService.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Contracts\\ILocalStorageService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Contracts\\ILocalStorageService.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Contracts\\ILocalStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:55:44.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\ServiceClient.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Services\\Base\\ServiceClient.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\ServiceClient.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Services\\Base\\ServiceClient.cs",
+              "ViewState": "AQIAAGcEAAAAAAAAAAAAwHgEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:04:13.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\Client.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Services\\Base\\Client.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\Client.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Services\\Base\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:01:24.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\IClient.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Services\\Base\\IClient.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\IClient.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Services\\Base\\IClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:59:04.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\Response.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Services\\Base\\Response.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Services\\Base\\Response.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Services\\Base\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:51:53.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagament.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HRLeaveManagement\\HR.LeaveManagament.MVC\\Program.cs",
+              "RelativeToolTip": "HR.LeaveManagament.MVC\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:33:54.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

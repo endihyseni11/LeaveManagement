@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HR.LeaveManagament.MVC.props" />
+</Project>

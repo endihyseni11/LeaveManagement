@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.deps.json
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.runtimeconfig.json
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.dll
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\refint\HR.LeaveManagement.Domain.dll
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.genruntimeconfig.cache
+C:\Users\User\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\ref\HR.LeaveManagement.Domain.dll
